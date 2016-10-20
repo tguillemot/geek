@@ -1,5 +1,5 @@
 def beta():
-	return 15
+	return 25
 
 def toto():
 	return 4
