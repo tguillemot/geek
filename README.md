@@ -5,7 +5,6 @@
 - IPOL paper :: http://www.ipol.im/pub/pre/140/
 are permitted in any medium without royalty provided the copyright
 notice and this notice are preserved.  This file is offered as-is,
-without any warranty.
 # Overview
 This source code provides an implementation of the "midway" image
 equalization, as described in IPOL.

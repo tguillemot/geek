@@ -1,6 +1,5 @@
                                 ━━━━━━━━
                        README
-                                ━━━━━━━━
 
 
 Table of Contents
