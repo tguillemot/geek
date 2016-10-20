@@ -1,2 +1,2 @@
 def toto():
-	return 3
+	return 4
